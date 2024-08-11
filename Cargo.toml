@@ -1,0 +1,12 @@
+[package]
+name = "rusty_quote_generator"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+warp = "0.3"
+tokio = { version = "1", features = ["full"] }
+tera = "1.20.0"  # Use a valid version
+serde = { version = "1.0", features = ["derive"] }
+serde_derive = "1.0"
+serde_json = "1.0"

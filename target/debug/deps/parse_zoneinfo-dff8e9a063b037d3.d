@@ -1,0 +1,11 @@
+/workspace/Rusty-Quote-Generator/rusty_quote_generator/target/debug/deps/libparse_zoneinfo-dff8e9a063b037d3.rmeta: /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/line.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/structure.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/table.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/transitions.rs
+
+/workspace/Rusty-Quote-Generator/rusty_quote_generator/target/debug/deps/libparse_zoneinfo-dff8e9a063b037d3.rlib: /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/line.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/structure.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/table.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/transitions.rs
+
+/workspace/Rusty-Quote-Generator/rusty_quote_generator/target/debug/deps/parse_zoneinfo-dff8e9a063b037d3.d: /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/lib.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/line.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/structure.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/table.rs /workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/transitions.rs
+
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/lib.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/line.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/structure.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/table.rs:
+/workspace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/parse-zoneinfo-0.3.1/src/transitions.rs:

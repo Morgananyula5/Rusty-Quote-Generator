@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quote Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f0f0f0;
+            color: #333;
+        }
+
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+        }
+
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+
+        .button-container {
+            margin: 20px auto;
+            max-width: 400px;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 15px 20px;
+            margin: 10px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 1.2em;
+            transition: background-color 0.3s ease, transform 0.2s ease;
+        }
+
+        button:hover {
+            background-color: #45a049;
+            transform: scale(1.05);
+        }
+
+        section {
+            margin-top: 20px;
+            padding: 20px;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+
+        footer {
+            background-color: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+
+        footer p {
+            margin: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>RUSTY QUOTE GENERATOR</h1>
+        <h2>Welcome to the Quote Generator</h2>
+        <p>Explore quotes by selecting a category below:</p>
+    </header>
+
+    <main>
+        <div class="button-container">
+            <button onclick="window.location.href='/search?category=motivational'">Motivational</button>
+            <button onclick="window.location.href='/search?category=love'">Love</button>
+            <button onclick="window.location.href='/search?category=humor'">Humor</button>
+            <button onclick="window.location.href='/search?category=wisdom'">Wisdom</button>
+            <button onclick="window.location.href='/search?category=friendship'">Friendship</button>
+        </div>
+
+    
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Quote Generator</p>
+    </footer>
+</body>
+</html>
