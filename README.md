@@ -42,3 +42,26 @@ Rusty Quote Generator is a lightweight, user-friendly application designed for q
    ```bash
    git clone https://github.com/your-username/rusty-quote-generator.git
    cd rusty-quote-generator/rusty_quote_generator
+
+```markdown
+
+   ```
+
+2. **Build the Project:**
+   ```bash
+   cargo build
+   ```
+
+3. **Run the Project:**
+   ```bash
+   cargo run
+   ```
+
+4. **Access the Web App:**
+   - Open your web browser and navigate to `http://localhost:8000`.
+
+### Deploying to a Platform
+
+You can deploy Rusty Quote Generator to a platform like Vercel or Heroku by following their respective deployment guides. The app is designed to be easily deployed on cloud platforms, ensuring wide accessibility.
+
+
