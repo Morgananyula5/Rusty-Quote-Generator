@@ -24,7 +24,9 @@ Rusty Quote Generator is a lightweight, user-friendly application designed for q
 
 ### Video Demo
 
-Check out the [video demo](https://youtu.be/lpxx3joa88U) to see how the Rusty Quote Generator works in action!
+[![Rusty Quote Generator Demo](https://img.youtube.com/vi/lpxx3joa88U/0.jpg)](https://youtu.be/lpxx3joa88U)
+
+*Click the image above to watch the video demo.*
 
 ## Instructions to Build, Install, and Run
 
@@ -40,21 +42,3 @@ Check out the [video demo](https://youtu.be/lpxx3joa88U) to see how the Rusty Qu
    ```bash
    git clone https://github.com/your-username/rusty-quote-generator.git
    cd rusty-quote-generator/rusty_quote_generator
-
-   
-```markdown
-
-   ```
-
-2. **Build the Project:**
-   ```bash
-   cargo build
-   ```
-
-3. **Run the Project:**
-   ```bash
-   cargo run
-   ```
-
-4. **Access the Web App:**
-   - Open your web browser and navigate to `http://localhost:8000`.
